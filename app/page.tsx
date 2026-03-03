@@ -260,16 +260,12 @@ export default function Home() {
             <div className="space-y-2.5">
               {MODELS.map((m, i) => (
                 <div key={m.name} className="flex items-center gap-3">
-                  {/* rank */}
-                  <span className="w-5 shrink-0 text-right text-xs font-medium text-zinc-400">
-                    {i + 1}
-                  </span>
                   {/* label */}
-                  <span className="w-40 shrink-0 truncate text-right text-sm font-medium sm:w-48">
-                    {m.name}
+                  <span className="w-40 shrink-0 text-right sm:w-48">
+                    <span className="block truncate text-sm font-medium">{m.name}</span>
                     {m.note && (
-                      <span className="ml-1 text-[10px] font-normal text-zinc-400">
-                        ({m.note})
+                      <span className="block text-[10px] text-zinc-400">
+                        {m.note}
                       </span>
                     )}
                   </span>
@@ -285,11 +281,11 @@ export default function Home() {
                       className={`h-full rounded ${PROVIDER_COLORS[m.provider].bar} transition-all`}
                       style={{ width: `${m.accuracy}%` }}
                     />
-                    {/* accuracy label */}
-                    <span className="absolute inset-y-0 right-2 flex items-center text-xs font-semibold text-white mix-blend-difference">
-                      {m.accuracy}%
-                    </span>
                   </div>
+                  {/* accuracy label outside */}
+                  <span className="w-14 shrink-0 text-right text-xs font-semibold tabular-nums">
+                    {m.accuracy}%
+                  </span>
                 </div>
               ))}
             </div>
@@ -357,12 +353,14 @@ export default function Home() {
                         <span
                           className={`inline-block h-2 w-2 rounded-full ${PROVIDER_COLORS[m.provider].dot}`}
                         />
-                        {m.name}
-                        {m.note && (
-                          <span className="rounded bg-zinc-100 px-1.5 py-0.5 text-[10px] text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
-                            {m.note}
-                          </span>
-                        )}
+                        <span className="flex flex-col">
+                          <span>{m.name}</span>
+                          {m.note && (
+                            <span className="text-[10px] font-normal text-zinc-500 dark:text-zinc-400">
+                              {m.note}
+                            </span>
+                          )}
+                        </span>
                       </span>
                     </td>
                     {m.editions.map((e) => (
