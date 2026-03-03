@@ -1,0 +1,52 @@
+{
+  "summary_version": "1.0",
+  "validator_version": "validator-1.1.0",
+  "validated_at": "2026-03-03T13:07:39.160Z",
+  "run_id": "2026-03-03T12-44-47-775Z",
+  "run_ran_at": "2026-03-03T12:44:47.775Z",
+  "exams_expected": 3,
+  "exams_validated": 3,
+  "ok": true,
+  "total_error_count": 0,
+  "total_warning_count": 0,
+  "exams": [
+    {
+      "exam_id": "17431",
+      "exam_name": "45º EXAME DE ORDEM UNIFICADO",
+      "exam_folder": "data/oab/exams/17431-45-exame-de-ordem-unificado",
+      "questions_count": 80,
+      "answer_key_count": 80,
+      "annulled_count": 0,
+      "error_count": 0,
+      "warning_count": 0,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "exam_id": "17000",
+      "exam_name": "44º EXAME DE ORDEM UNIFICADO",
+      "exam_folder": "data/oab/exams/17000-44-exame-de-ordem-unificado",
+      "questions_count": 80,
+      "answer_key_count": 80,
+      "annulled_count": 0,
+      "error_count": 0,
+      "warning_count": 0,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "exam_id": "16773",
+      "exam_name": "43º EXAME DE ORDEM UNIFICADO",
+      "exam_folder": "data/oab/exams/16773-43-exame-de-ordem-unificado",
+      "questions_count": 80,
+      "answer_key_count": 80,
+      "annulled_count": 2,
+      "error_count": 0,
+      "warning_count": 0,
+      "errors": [],
+      "warnings": []
+    }
+  ],
+  "errors": [],
+  "warnings": []
+}

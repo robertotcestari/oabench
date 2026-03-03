@@ -1,0 +1,88 @@
+{
+  "runId": "2026-03-03T16-52-43-666Z_google--gemini-3-flash-preview_direto",
+  "model": "google/gemini-3-flash-preview",
+  "protocol": "direto",
+  "reasoningMode": "none",
+  "completedAt": "2026-03-03T17:17:04.748Z",
+  "editions": [
+    {
+      "edition": 43,
+      "total": 80,
+      "annulled": 2,
+      "active": 78,
+      "correct": 77,
+      "incorrect": 1,
+      "invalid": 0,
+      "officialScore": 79,
+      "officialTotal": 80,
+      "officialAccuracy": 0.9875,
+      "technicalScore": 77,
+      "technicalTotal": 78,
+      "technicalAccuracy": 0.9871794871794872,
+      "passed": true,
+      "strictComplianceRate": 1
+    },
+    {
+      "edition": 44,
+      "total": 80,
+      "annulled": 0,
+      "active": 80,
+      "correct": 76,
+      "incorrect": 4,
+      "invalid": 0,
+      "officialScore": 76,
+      "officialTotal": 80,
+      "officialAccuracy": 0.95,
+      "technicalScore": 76,
+      "technicalTotal": 80,
+      "technicalAccuracy": 0.95,
+      "passed": true,
+      "strictComplianceRate": 1
+    },
+    {
+      "edition": 45,
+      "total": 80,
+      "annulled": 0,
+      "active": 80,
+      "correct": 80,
+      "incorrect": 0,
+      "invalid": 0,
+      "officialScore": 80,
+      "officialTotal": 80,
+      "officialAccuracy": 1,
+      "technicalScore": 80,
+      "technicalTotal": 80,
+      "technicalAccuracy": 1,
+      "passed": true,
+      "strictComplianceRate": 1
+    }
+  ],
+  "aggregate": {
+    "totalQuestions": 240,
+    "totalAnnulled": 2,
+    "officialScore": 235,
+    "officialAccuracy": 0.9791666666666666,
+    "technicalScore": 233,
+    "technicalTotal": 238,
+    "technicalAccuracy": 0.9789915966386554,
+    "invalidCount": 0,
+    "invalidRate": 0,
+    "strictComplianceRate": 1,
+    "passedCount": 3,
+    "passedAll": true
+  },
+  "cost": {
+    "totalPromptTokens": 90993,
+    "totalCompletionTokens": 238,
+    "totalTokens": 91231,
+    "totalLatencyMs": 519462,
+    "avgLatencyMs": 2183
+  },
+  "pricing": {
+    "source": "openrouter",
+    "fetchedAt": "2026-03-03T17:17:04.871Z",
+    "promptPricePerToken": 5e-7,
+    "completionPricePerToken": 0.000003,
+    "estimatedCostUsd": 0.046210499999999995
+  }
+}

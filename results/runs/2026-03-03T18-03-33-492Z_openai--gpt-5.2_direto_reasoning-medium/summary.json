@@ -1,0 +1,90 @@
+{
+  "runId": "2026-03-03T18-03-33-492Z_openai--gpt-5.2_direto_reasoning-medium",
+  "model": "openai/gpt-5.2",
+  "protocol": "direto",
+  "reasoningMode": "none",
+  "completedAt": "2026-03-03T18:05:26.700Z",
+  "editions": [
+    {
+      "edition": 43,
+      "total": 80,
+      "annulled": 2,
+      "active": 78,
+      "correct": 76,
+      "incorrect": 2,
+      "invalid": 0,
+      "officialScore": 78,
+      "officialTotal": 80,
+      "officialAccuracy": 0.975,
+      "technicalScore": 76,
+      "technicalTotal": 78,
+      "technicalAccuracy": 0.9743589743589743,
+      "passed": true,
+      "strictComplianceRate": 1
+    },
+    {
+      "edition": 44,
+      "total": 80,
+      "annulled": 0,
+      "active": 80,
+      "correct": 76,
+      "incorrect": 4,
+      "invalid": 0,
+      "officialScore": 76,
+      "officialTotal": 80,
+      "officialAccuracy": 0.95,
+      "technicalScore": 76,
+      "technicalTotal": 80,
+      "technicalAccuracy": 0.95,
+      "passed": true,
+      "strictComplianceRate": 1
+    },
+    {
+      "edition": 45,
+      "total": 80,
+      "annulled": 0,
+      "active": 80,
+      "correct": 75,
+      "incorrect": 5,
+      "invalid": 0,
+      "officialScore": 75,
+      "officialTotal": 80,
+      "officialAccuracy": 0.9375,
+      "technicalScore": 75,
+      "technicalTotal": 80,
+      "technicalAccuracy": 0.9375,
+      "passed": true,
+      "strictComplianceRate": 1
+    }
+  ],
+  "aggregate": {
+    "totalQuestions": 240,
+    "totalAnnulled": 2,
+    "officialScore": 229,
+    "officialAccuracy": 0.9541666666666667,
+    "technicalScore": 227,
+    "technicalTotal": 238,
+    "technicalAccuracy": 0.9537815126050421,
+    "invalidCount": 0,
+    "invalidRate": 0,
+    "strictComplianceRate": 1,
+    "passedCount": 3,
+    "passedAll": true
+  },
+  "cost": {
+    "totalPromptTokens": 87928,
+    "totalCompletionTokens": 63104,
+    "totalReasoningTokens": 61438,
+    "totalTokens": 151032,
+    "totalLatencyMs": 1651109,
+    "avgLatencyMs": 6937,
+    "actualCostUsd": 1.0269567
+  },
+  "pricing": {
+    "source": "openrouter",
+    "fetchedAt": "2026-03-03T18:05:26.869Z",
+    "promptPricePerToken": 0.00000175,
+    "completionPricePerToken": 0.000014,
+    "estimatedCostUsd": 1.03733
+  }
+}

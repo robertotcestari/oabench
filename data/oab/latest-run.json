@@ -1,0 +1,58 @@
+{
+  "runId": "2026-03-03T12-44-47-775Z",
+  "ranAt": "2026-03-03T12:44:47.775Z",
+  "source": "https://examedeordem.oab.org.br/EditaisProvas?NumeroExame=0",
+  "selectedExams": [
+    {
+      "examId": "17431",
+      "examName": "45º EXAME DE ORDEM UNIFICADO",
+      "examPageUrl": "https://examedeordem.oab.org.br/EditaisProvas?NumeroExame=17431",
+      "prova": {
+        "url": "https://s.oab.org.br/arquivos/2025/12/d092ea6d-5bdc-435e-a043-31520b8cdc95.pdf",
+        "label": "21/12/2025 - Caderno de Prova - Tipo 1",
+        "localPath": "data/oab/exams/17431-45-exame-de-ordem-unificado/prova-objetiva-tipo1.pdf",
+        "bytes": 492254
+      },
+      "gabarito": {
+        "url": "https://s.oab.org.br/arquivos/2026/01/038bd1b7-d255-4323-ac1f-c59351757484.pdf",
+        "label": "19/01/2026 - Gabaritos Definitivos - Prova Objetiva (1ª fase)",
+        "localPath": "data/oab/exams/17431-45-exame-de-ordem-unificado/gabarito.pdf",
+        "bytes": 85707
+      }
+    },
+    {
+      "examId": "17000",
+      "examName": "44º EXAME DE ORDEM UNIFICADO",
+      "examPageUrl": "https://examedeordem.oab.org.br/EditaisProvas?NumeroExame=17000",
+      "prova": {
+        "url": "https://s.oab.org.br/arquivos/2025/08/fda2cc49-fbbd-4893-9b75-0f61c177cd5d.pdf",
+        "label": "17/08/2025 - Caderno de Prova - Tipo 1",
+        "localPath": "data/oab/exams/17000-44-exame-de-ordem-unificado/prova-objetiva-tipo1.pdf",
+        "bytes": 519680
+      },
+      "gabarito": {
+        "url": "https://s.oab.org.br/arquivos/2025/09/b6fb7503-e2cf-4e9b-8b0a-9b822df591fe.pdf",
+        "label": "03/09/2025 - Gabaritos Definitivos - Prova Objetiva (1ª fase)",
+        "localPath": "data/oab/exams/17000-44-exame-de-ordem-unificado/gabarito.pdf",
+        "bytes": 158882
+      }
+    },
+    {
+      "examId": "16773",
+      "examName": "43º EXAME DE ORDEM UNIFICADO",
+      "examPageUrl": "https://examedeordem.oab.org.br/EditaisProvas?NumeroExame=16773",
+      "prova": {
+        "url": "https://s.oab.org.br/arquivos/2025/04/145104f9-1301-453d-9079-3d5af4f8e60a.pdf",
+        "label": "27/04/2025 - Caderno de Prova - Tipo 1",
+        "localPath": "data/oab/exams/16773-43-exame-de-ordem-unificado/prova-objetiva-tipo1.pdf",
+        "bytes": 583894
+      },
+      "gabarito": {
+        "url": "https://s.oab.org.br/arquivos/2025/05/2d003602-840e-4ef2-9a4a-004144a35268.pdf",
+        "label": "14/05/2025 - Gabaritos Definitivos - Prova Objetiva (1ª fase)",
+        "localPath": "data/oab/exams/16773-43-exame-de-ordem-unificado/gabarito.pdf",
+        "bytes": 194143
+      }
+    }
+  ]
+}

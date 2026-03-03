@@ -6,10 +6,16 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "download:oab-provas": "bun scripts/download-latest-oab-provas.ts",
+    "parse:oab-provas": "bun scripts/parse-oab-questions.ts",
+    "validate:oab-json": "bun scripts/validate-oab-json.ts",
+    "bench:run": "bun scripts/benchmark/run.ts",
+    "bench:score": "bun scripts/benchmark/score.ts"
   },
   "dependencies": {
     "next": "16.1.6",
+    "openai": "^6.25.0",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },

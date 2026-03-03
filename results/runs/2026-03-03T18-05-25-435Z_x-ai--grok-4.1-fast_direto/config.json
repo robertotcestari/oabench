@@ -1,0 +1,16 @@
+{
+  "runId": "2026-03-03T18-05-25-435Z_x-ai--grok-4.1-fast_direto",
+  "model": "x-ai/grok-4.1-fast",
+  "protocol": "direto",
+  "reasoningMode": "none",
+  "editions": [
+    43,
+    44,
+    45
+  ],
+  "temperature": 0,
+  "topP": 1,
+  "delayMs": 200,
+  "concurrency": 20,
+  "dryRun": false
+}

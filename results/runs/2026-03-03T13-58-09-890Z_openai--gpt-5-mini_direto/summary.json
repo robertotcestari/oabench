@@ -1,0 +1,54 @@
+{
+  "runId": "2026-03-03T13-58-09-890Z_openai--gpt-5-mini_direto",
+  "model": "openai/gpt-5-mini",
+  "protocol": "direto",
+  "reasoningMode": "none",
+  "completedAt": "2026-03-03T17:17:05.206Z",
+  "editions": [
+    {
+      "edition": 45,
+      "total": 80,
+      "annulled": 0,
+      "active": 80,
+      "correct": 64,
+      "incorrect": 16,
+      "invalid": 0,
+      "officialScore": 64,
+      "officialTotal": 80,
+      "officialAccuracy": 0.8,
+      "technicalScore": 64,
+      "technicalTotal": 80,
+      "technicalAccuracy": 0.8,
+      "passed": true,
+      "strictComplianceRate": 1
+    }
+  ],
+  "aggregate": {
+    "totalQuestions": 80,
+    "totalAnnulled": 0,
+    "officialScore": 64,
+    "officialAccuracy": 0.8,
+    "technicalScore": 64,
+    "technicalTotal": 80,
+    "technicalAccuracy": 0.8,
+    "invalidCount": 0,
+    "invalidRate": 0,
+    "strictComplianceRate": 1,
+    "passedCount": 1,
+    "passedAll": true
+  },
+  "cost": {
+    "totalPromptTokens": 29838,
+    "totalCompletionTokens": 70664,
+    "totalTokens": 100502,
+    "totalLatencyMs": 1125217,
+    "avgLatencyMs": 14065
+  },
+  "pricing": {
+    "source": "openrouter",
+    "fetchedAt": "2026-03-03T17:17:05.326Z",
+    "promptPricePerToken": 2.5e-7,
+    "completionPricePerToken": 0.000002,
+    "estimatedCostUsd": 0.1487875
+  }
+}

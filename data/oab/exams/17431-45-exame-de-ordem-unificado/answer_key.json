@@ -1,0 +1,402 @@
+[
+  {
+    "qid": "oab-45-1f-q1",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q2",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q3",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q4",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q5",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q6",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q7",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q8",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q9",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q10",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q11",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q12",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q13",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q14",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q15",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q16",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q17",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q18",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q19",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q20",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q21",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q22",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q23",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q24",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q25",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q26",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q27",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q28",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q29",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q30",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q31",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q32",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q33",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q34",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q35",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q36",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q37",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q38",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q39",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q40",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q41",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q42",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q43",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q44",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q45",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q46",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q47",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q48",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q49",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q50",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q51",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q52",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q53",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q54",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q55",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q56",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q57",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q58",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q59",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q60",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q61",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q62",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q63",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q64",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q65",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q66",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q67",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q68",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q69",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q70",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q71",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q72",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q73",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q74",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q75",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q76",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q77",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q78",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q79",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-45-1f-q80",
+    "correct": "A",
+    "status": "definitivo"
+  }
+]

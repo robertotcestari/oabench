@@ -1,0 +1,16 @@
+{
+  "runId": "2026-03-03T18-01-17-579Z_anthropic--claude-haiku-4.5_direto",
+  "model": "anthropic/claude-haiku-4.5",
+  "protocol": "direto",
+  "reasoningMode": "none",
+  "editions": [
+    43,
+    44,
+    45
+  ],
+  "temperature": 0,
+  "topP": 1,
+  "delayMs": 200,
+  "concurrency": 20,
+  "dryRun": false
+}

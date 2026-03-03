@@ -1,0 +1,16 @@
+{
+  "runId": "2026-03-03T17-54-08-551Z_minimax--minimax-m2.5_direto",
+  "model": "minimax/minimax-m2.5",
+  "protocol": "direto",
+  "reasoningMode": "none",
+  "editions": [
+    43,
+    44,
+    45
+  ],
+  "temperature": 0,
+  "topP": 1,
+  "delayMs": 200,
+  "concurrency": 20,
+  "dryRun": false
+}

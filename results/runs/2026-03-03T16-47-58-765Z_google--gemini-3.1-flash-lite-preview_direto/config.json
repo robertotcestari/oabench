@@ -1,0 +1,16 @@
+{
+  "runId": "2026-03-03T16-47-58-765Z_google--gemini-3.1-flash-lite-preview_direto",
+  "model": "google/gemini-3.1-flash-lite-preview",
+  "protocol": "direto",
+  "reasoningMode": "none",
+  "editions": [
+    43,
+    44,
+    45
+  ],
+  "temperature": 0,
+  "topP": 1,
+  "delayMs": 200,
+  "concurrency": 27,
+  "dryRun": false
+}

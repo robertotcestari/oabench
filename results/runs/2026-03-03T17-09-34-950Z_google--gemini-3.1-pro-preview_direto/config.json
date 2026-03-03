@@ -1,0 +1,17 @@
+{
+  "runId": "2026-03-03T17-09-34-950Z_google--gemini-3.1-pro-preview_direto",
+  "model": "google/gemini-3.1-pro-preview",
+  "protocol": "direto",
+  "reasoningMode": "none",
+  "editions": [
+    43,
+    44,
+    45
+  ],
+  "temperature": 0,
+  "topP": 1,
+  "delayMs": 200,
+  "concurrency": 20,
+  "dryRun": false,
+  "resumeRunId": "2026-03-03T17-09-34-950Z_google--gemini-3.1-pro-preview_direto"
+}

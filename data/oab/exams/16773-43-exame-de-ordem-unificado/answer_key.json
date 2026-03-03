@@ -1,0 +1,402 @@
+[
+  {
+    "qid": "oab-43-1f-q1",
+    "correct": null,
+    "status": "anulada"
+  },
+  {
+    "qid": "oab-43-1f-q2",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q3",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q4",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q5",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q6",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q7",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q8",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q9",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q10",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q11",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q12",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q13",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q14",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q15",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q16",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q17",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q18",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q19",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q20",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q21",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q22",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q23",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q24",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q25",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q26",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q27",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q28",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q29",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q30",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q31",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q32",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q33",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q34",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q35",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q36",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q37",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q38",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q39",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q40",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q41",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q42",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q43",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q44",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q45",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q46",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q47",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q48",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q49",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q50",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q51",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q52",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q53",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q54",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q55",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q56",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q57",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q58",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q59",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q60",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q61",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q62",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q63",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q64",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q65",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q66",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q67",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q68",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q69",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q70",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q71",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q72",
+    "correct": "B",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q73",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q74",
+    "correct": null,
+    "status": "anulada"
+  },
+  {
+    "qid": "oab-43-1f-q75",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q76",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q77",
+    "correct": "C",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q78",
+    "correct": "A",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q79",
+    "correct": "D",
+    "status": "definitivo"
+  },
+  {
+    "qid": "oab-43-1f-q80",
+    "correct": "A",
+    "status": "definitivo"
+  }
+]

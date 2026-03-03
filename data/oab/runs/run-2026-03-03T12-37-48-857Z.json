@@ -1,0 +1,34 @@
+{
+  "runId": "2026-03-03T12-37-48-857Z",
+  "ranAt": "2026-03-03T12:37:48.857Z",
+  "source": "https://examedeordem.oab.org.br/EditaisProvas?NumeroExame=0",
+  "selectedExams": [
+    {
+      "examId": "17431",
+      "examName": "45º EXAME DE ORDEM UNIFICADO",
+      "examPageUrl": "https://examedeordem.oab.org.br/EditaisProvas?NumeroExame=17431",
+      "pdfUrl": "https://s.oab.org.br/arquivos/2025/12/d092ea6d-5bdc-435e-a043-31520b8cdc95.pdf",
+      "pdfLabel": "21/12/2025 - Caderno de Prova - Tipo 1",
+      "localPath": "data/oab/exams/17431-45-exame-de-ordem-unificado/prova-objetiva-tipo1.pdf",
+      "bytes": 492254
+    },
+    {
+      "examId": "17000",
+      "examName": "44º EXAME DE ORDEM UNIFICADO",
+      "examPageUrl": "https://examedeordem.oab.org.br/EditaisProvas?NumeroExame=17000",
+      "pdfUrl": "https://s.oab.org.br/arquivos/2025/08/fda2cc49-fbbd-4893-9b75-0f61c177cd5d.pdf",
+      "pdfLabel": "17/08/2025 - Caderno de Prova - Tipo 1",
+      "localPath": "data/oab/exams/17000-44-exame-de-ordem-unificado/prova-objetiva-tipo1.pdf",
+      "bytes": 519680
+    },
+    {
+      "examId": "16773",
+      "examName": "43º EXAME DE ORDEM UNIFICADO",
+      "examPageUrl": "https://examedeordem.oab.org.br/EditaisProvas?NumeroExame=16773",
+      "pdfUrl": "https://s.oab.org.br/arquivos/2025/04/145104f9-1301-453d-9079-3d5af4f8e60a.pdf",
+      "pdfLabel": "27/04/2025 - Caderno de Prova - Tipo 1",
+      "localPath": "data/oab/exams/16773-43-exame-de-ordem-unificado/prova-objetiva-tipo1.pdf",
+      "bytes": 583894
+    }
+  ]
+}

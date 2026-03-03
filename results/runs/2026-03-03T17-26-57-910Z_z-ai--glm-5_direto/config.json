@@ -1,0 +1,17 @@
+{
+  "runId": "2026-03-03T17-26-57-910Z_z-ai--glm-5_direto",
+  "model": "z-ai/glm-5",
+  "protocol": "direto",
+  "reasoningMode": "none",
+  "editions": [
+    43,
+    44,
+    45
+  ],
+  "temperature": 0,
+  "topP": 1,
+  "delayMs": 200,
+  "concurrency": 5,
+  "dryRun": false,
+  "resumeRunId": "2026-03-03T17-26-57-910Z_z-ai--glm-5_direto"
+}
