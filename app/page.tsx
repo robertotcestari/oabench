@@ -200,10 +200,7 @@ export default function Home() {
       <main className="mx-auto flex w-full max-w-5xl flex-col gap-14 px-6 py-14 sm:px-10">
         {/* ── A. Hero ──────────────────────────────────────────────────── */}
         <section className="space-y-5">
-          <div className="flex items-center justify-between">
-            <p className="inline-flex rounded-full bg-emerald-100 px-3 py-1 text-sm font-medium text-emerald-800 dark:bg-emerald-900/50 dark:text-emerald-200">
-              Benchmark de IA para a OAB
-            </p>
+          <div className="flex items-center justify-end">
             <div className="flex items-center gap-3">
               <a
                 href="https://github.com/robertotcestari/oabench"
@@ -227,6 +224,16 @@ export default function Home() {
                   <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
                 </svg>
               </a>
+              <a
+                href="/OABench_Paper.pdf"
+                download
+                className="text-zinc-400 transition-colors hover:text-zinc-900 dark:hover:text-zinc-100"
+                aria-label="Download Paper"
+              >
+                <svg className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth={2} viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m.75 12l3 3m0 0l3-3m-3 3v-6m-1.5-9H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z" />
+                </svg>
+              </a>
             </div>
           </div>
           <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
@@ -236,7 +243,15 @@ export default function Home() {
             Avaliamos modelos de IA nas{" "}
             <strong>3 provas mais recentes</strong> da 1a fase da OAB para
             medir acurácia em múltiplas estratégias de resposta. Todos os
-            modelos passariam no exame.
+            modelos passariam no exame. Acesse o paper{" "}
+            <a
+              href="/OABench_Paper.pdf"
+              download
+              className="underline underline-offset-2 hover:text-zinc-900 dark:hover:text-zinc-100"
+            >
+              aqui
+            </a>
+            .
           </p>
           <p className="text-sm text-zinc-500 dark:text-zinc-400">
             Março 2026 · Protocolo direto · 240 questões · {MODELS.length}{" "}
@@ -281,6 +296,7 @@ export default function Home() {
         {/* ── C. Bar chart ─────────────────────────────────────────────── */}
         <section className="space-y-4">
           <h2 className="text-2xl font-semibold">Ranking por Acurácia</h2>
+          <p className="text-sm text-zinc-500 dark:text-zinc-400">Última atualização: 04/03/2026</p>
 
           <div className="rounded-2xl border border-zinc-200 bg-white p-6 dark:border-zinc-800 dark:bg-zinc-900">
             <div className="space-y-2.5">
@@ -336,6 +352,7 @@ export default function Home() {
         {/* ── D. Leaderboard table ─────────────────────────────────────── */}
         <section className="space-y-4">
           <h2 className="text-2xl font-semibold">Leaderboard Completo</h2>
+          <p className="text-sm text-zinc-500 dark:text-zinc-400">Última atualização: 04/03/2026</p>
 
           <div className="overflow-x-auto rounded-2xl border border-zinc-200 dark:border-zinc-800">
             <table className="w-full border-collapse text-left text-sm">
@@ -429,6 +446,17 @@ export default function Home() {
 
         <section className="space-y-8">
           <h2 className="text-2xl font-semibold">Metodologia</h2>
+          <p className="text-zinc-700 dark:text-zinc-300">
+            A metodologia completa pode ser encontrada em nosso{" "}
+            <a
+              href="/OABench_Paper.pdf"
+              download
+              className="underline underline-offset-2 hover:text-zinc-900 dark:hover:text-zinc-100"
+            >
+              paper
+            </a>
+            .
+          </p>
 
           <div className="grid gap-4 rounded-2xl border border-zinc-200 bg-white p-6 dark:border-zinc-800 dark:bg-zinc-900 sm:grid-cols-2">
             <article className="rounded-xl bg-zinc-100 p-4 dark:bg-zinc-800/60">
