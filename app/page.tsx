@@ -22,15 +22,15 @@ const MODELS: ModelResult[] = [
   {
     name: "Gemini 3 Flash",
     provider: "google",
-    accuracy: 97.9,
-    score: 235,
+    accuracy: 96.7,
+    score: 232,
     total: 240,
     cost: "$0.05",
-    latency: "2.2s",
+    latency: "3.3s",
     editions: [
       { edition: 43, score: 79, total: 80 },
-      { edition: 44, score: 76, total: 80 },
-      { edition: 45, score: 80, total: 80 },
+      { edition: 44, score: 75, total: 80 },
+      { edition: 45, score: 78, total: 80 },
     ],
   },
   {
@@ -119,6 +119,20 @@ const MODELS: ModelResult[] = [
     ],
   },
   {
+    name: "GPT 5.4 Mini",
+    provider: "openai",
+    accuracy: 81.3,
+    score: 195,
+    total: 240,
+    cost: "$0.07",
+    latency: "0.8s",
+    editions: [
+      { edition: 43, score: 71, total: 80 },
+      { edition: 44, score: 63, total: 80 },
+      { edition: 45, score: 61, total: 80 },
+    ],
+  },
+  {
     name: "GPT-5 Mini",
     provider: "openai",
     accuracy: 78.3,
@@ -172,6 +186,20 @@ const MODELS: ModelResult[] = [
       { edition: 43, score: 63, total: 80 },
       { edition: 44, score: 52, total: 80 },
       { edition: 45, score: 61, total: 80 },
+    ],
+  },
+  {
+    name: "GPT 5.4 Nano",
+    provider: "openai",
+    accuracy: 59.2,
+    score: 142,
+    total: 240,
+    cost: "$0.02",
+    latency: "0.7s",
+    editions: [
+      { edition: 43, score: 54, total: 80 },
+      { edition: 44, score: 43, total: 80 },
+      { edition: 45, score: 45, total: 80 },
     ],
   },
 ];
@@ -296,7 +324,7 @@ export default function Home() {
         {/* ── C. Bar chart ─────────────────────────────────────────────── */}
         <section className="space-y-4">
           <h2 className="text-2xl font-semibold">Ranking por Acurácia</h2>
-          <p className="text-sm text-zinc-500 dark:text-zinc-400">Última atualização: 04/03/2026</p>
+          <p className="text-sm text-zinc-500 dark:text-zinc-400">Última atualização: 23/03/2026</p>
 
           <div className="rounded-2xl border border-zinc-200 bg-white p-6 dark:border-zinc-800 dark:bg-zinc-900">
             <div className="space-y-2.5">
@@ -352,7 +380,7 @@ export default function Home() {
         {/* ── D. Leaderboard table ─────────────────────────────────────── */}
         <section className="space-y-4">
           <h2 className="text-2xl font-semibold">Leaderboard Completo</h2>
-          <p className="text-sm text-zinc-500 dark:text-zinc-400">Última atualização: 04/03/2026</p>
+          <p className="text-sm text-zinc-500 dark:text-zinc-400">Última atualização: 23/03/2026</p>
 
           <div className="overflow-x-auto rounded-2xl border border-zinc-200 dark:border-zinc-800">
             <table className="w-full border-collapse text-left text-sm">

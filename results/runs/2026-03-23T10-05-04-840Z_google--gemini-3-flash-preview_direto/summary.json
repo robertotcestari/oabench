@@ -1,0 +1,90 @@
+{
+  "runId": "2026-03-23T10-05-04-840Z_google--gemini-3-flash-preview_direto",
+  "model": "google/gemini-3-flash-preview",
+  "protocol": "direto",
+  "reasoningMode": "none",
+  "completedAt": "2026-03-23T10:05:53.124Z",
+  "editions": [
+    {
+      "edition": 43,
+      "total": 80,
+      "annulled": 2,
+      "active": 78,
+      "correct": 77,
+      "incorrect": 1,
+      "invalid": 0,
+      "officialScore": 79,
+      "officialTotal": 80,
+      "officialAccuracy": 0.9875,
+      "technicalScore": 77,
+      "technicalTotal": 78,
+      "technicalAccuracy": 0.9871794871794872,
+      "passed": true,
+      "strictComplianceRate": 1
+    },
+    {
+      "edition": 44,
+      "total": 80,
+      "annulled": 0,
+      "active": 80,
+      "correct": 75,
+      "incorrect": 5,
+      "invalid": 0,
+      "officialScore": 75,
+      "officialTotal": 80,
+      "officialAccuracy": 0.9375,
+      "technicalScore": 75,
+      "technicalTotal": 80,
+      "technicalAccuracy": 0.9375,
+      "passed": true,
+      "strictComplianceRate": 1
+    },
+    {
+      "edition": 45,
+      "total": 80,
+      "annulled": 0,
+      "active": 80,
+      "correct": 78,
+      "incorrect": 2,
+      "invalid": 0,
+      "officialScore": 78,
+      "officialTotal": 80,
+      "officialAccuracy": 0.975,
+      "technicalScore": 78,
+      "technicalTotal": 80,
+      "technicalAccuracy": 0.975,
+      "passed": true,
+      "strictComplianceRate": 1
+    }
+  ],
+  "aggregate": {
+    "totalQuestions": 240,
+    "totalAnnulled": 2,
+    "officialScore": 232,
+    "officialAccuracy": 0.9666666666666667,
+    "technicalScore": 230,
+    "technicalTotal": 238,
+    "technicalAccuracy": 0.9663865546218487,
+    "invalidCount": 0,
+    "invalidRate": 0,
+    "strictComplianceRate": 1,
+    "passedCount": 3,
+    "passedAll": true
+  },
+  "cost": {
+    "totalPromptTokens": 90743,
+    "totalCompletionTokens": 238,
+    "totalReasoningTokens": 0,
+    "totalTokens": 90981,
+    "totalLatencyMs": 793702,
+    "avgLatencyMs": 3335,
+    "actualCostUsd": 0.045624645
+  },
+  "pricing": {
+    "source": "openrouter",
+    "fetchedAt": "2026-03-23T10:05:53.261Z",
+    "promptPricePerToken": 5e-7,
+    "completionPricePerToken": 0.000003,
+    "estimatedCostUsd": 0.046085499999999995
+  }
+}

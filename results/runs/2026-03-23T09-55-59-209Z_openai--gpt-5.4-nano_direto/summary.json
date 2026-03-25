@@ -1,0 +1,90 @@
+{
+  "runId": "2026-03-23T09-55-59-209Z_openai--gpt-5.4-nano_direto",
+  "model": "openai/gpt-5.4-nano",
+  "protocol": "direto",
+  "reasoningMode": "none",
+  "completedAt": "2026-03-23T09:56:14.682Z",
+  "editions": [
+    {
+      "edition": 43,
+      "total": 80,
+      "annulled": 2,
+      "active": 78,
+      "correct": 52,
+      "incorrect": 26,
+      "invalid": 0,
+      "officialScore": 54,
+      "officialTotal": 80,
+      "officialAccuracy": 0.675,
+      "technicalScore": 52,
+      "technicalTotal": 78,
+      "technicalAccuracy": 0.6666666666666666,
+      "passed": true,
+      "strictComplianceRate": 1
+    },
+    {
+      "edition": 44,
+      "total": 80,
+      "annulled": 0,
+      "active": 80,
+      "correct": 43,
+      "incorrect": 37,
+      "invalid": 0,
+      "officialScore": 43,
+      "officialTotal": 80,
+      "officialAccuracy": 0.5375,
+      "technicalScore": 43,
+      "technicalTotal": 80,
+      "technicalAccuracy": 0.5375,
+      "passed": true,
+      "strictComplianceRate": 1
+    },
+    {
+      "edition": 45,
+      "total": 80,
+      "annulled": 0,
+      "active": 80,
+      "correct": 45,
+      "incorrect": 35,
+      "invalid": 0,
+      "officialScore": 45,
+      "officialTotal": 80,
+      "officialAccuracy": 0.5625,
+      "technicalScore": 45,
+      "technicalTotal": 80,
+      "technicalAccuracy": 0.5625,
+      "passed": true,
+      "strictComplianceRate": 1
+    }
+  ],
+  "aggregate": {
+    "totalQuestions": 240,
+    "totalAnnulled": 2,
+    "officialScore": 142,
+    "officialAccuracy": 0.5916666666666667,
+    "technicalScore": 140,
+    "technicalTotal": 238,
+    "technicalAccuracy": 0.5882352941176471,
+    "invalidCount": 0,
+    "invalidRate": 0,
+    "strictComplianceRate": 1,
+    "passedCount": 3,
+    "passedAll": true
+  },
+  "cost": {
+    "totalPromptTokens": 87928,
+    "totalCompletionTokens": 1191,
+    "totalReasoningTokens": 0,
+    "totalTokens": 89119,
+    "totalLatencyMs": 169735,
+    "avgLatencyMs": 713,
+    "actualCostUsd": 0.018883606500000007
+  },
+  "pricing": {
+    "source": "openrouter",
+    "fetchedAt": "2026-03-23T09:56:14.800Z",
+    "promptPricePerToken": 2e-7,
+    "completionPricePerToken": 0.00000125,
+    "estimatedCostUsd": 0.01907435
+  }
+}
